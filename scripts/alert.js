@@ -24,6 +24,12 @@ for (let i = 2; i <= n; i++) { // Для всех i...
 
   alert( i ); // простое число
 } 
- //commit at alert
+ 
+//commit at alert
+//commit at alert
+//commit at alert
+//commit at alert
+//commit at alert
+//commit at alert
 
 
