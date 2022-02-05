@@ -24,3 +24,4 @@ for (let i = 2; i <= n; i++) { // Для всех i...
 
   alert( i ); // простое число
 }  // Use Git CMD on branch Dark
+   //vfedvd
